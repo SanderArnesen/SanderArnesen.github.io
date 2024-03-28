@@ -423,6 +423,7 @@ MODAL
 .modal__para{
     margin-bottom: 12px;
     line-height: 1.5;
+    font-size: 18px;
 }
 
 .form__item{
@@ -725,7 +726,7 @@ width = 80vw
 
 /* Small Phones */
 
-@media (max-widt: 480px){
+@media (max-width: 480px){
     .title{
         font-size: 52px
     }
